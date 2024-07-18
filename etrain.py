@@ -150,7 +150,7 @@ if __name__ == '__main__':
     parser.add_argument('--train_path', type=str,
                         default='/home/zcc/data/COD/COD 10K/TrainDataset', help='path to train dataset')
     parser.add_argument('--test_path', type=str,
-                        default='/home/zcc/data/COD/COD 10K/TestDataset/COD10K', help='path to train dataset')
+                        default='/home/zcc/data/COD/COD 10K/TestDataset/CAMO', help='path to train dataset')
     parser.add_argument('--train_save', type=str,
                         default='CTF-Net')
     opt = parser.parse_args()
