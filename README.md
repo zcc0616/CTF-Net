@@ -3,8 +3,10 @@
 
 > **Authors:** 
 > Dongdong Zhang,
-> XinHai Liu,
-> Qiang Fu, et al.
+> Chunping Wang,
+> Huiying Wang,
+> Qiang Fu,
+> Zhaorui Li.
 
 ## 1. Preface
 
